@@ -44,4 +44,6 @@ Analyzed sales and returns data, identifying correlations and providing actionab
 Created calculated fields and developed methods for filtering data in Tableau.
 Have studied basic HTML, CSS, C#, and Python in order to gain a conceptual understanding of these coding languages.
 
+Feel free to contact me on GitHub or Linkdin if you would like to give me the opportunity to join your team!
+
 
