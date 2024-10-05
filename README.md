@@ -14,6 +14,7 @@ About me:
 
 
 Skills Acquired in TripleTen Business Analytics Certification include the following:  
+
 -Data Analysis: Extensive experience in data cleaning, transformation, and visualization.  
 -SQL: Writing queries to retrieve, manipulate, and analyze data from relational databases.  
 -Excel: Advanced usage, including PivotTables, advanced formulas, and data visualization.  
