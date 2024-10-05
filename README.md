@@ -4,35 +4,23 @@ I'm Lukas, a dedicated and analytical professional with a strong educational fou
 
 About Me: I have a diverse background, blending my passions for data, performance optimization, and leadership.
 
-Automotive Enthusiast: I have many years of experience in helping people by consulting on and performing modifications for race cars and off-road vehicles, improving their performance for competitive events or personal enjoyment.
-
-Retired Athlete: Growing up, I played hockey at a highly competitive level. In an effort to give back to the community and help future generations of hockey players, I’ve volunteered as a coach to develop young players’ athletic and social skills both on and off the ice.
-
-Pet Lover: I'm the proud owner of two adorable cats, Holley and Sammy.
-
-Fitness & Outdoors: I love staying active! I weight train 3-5 times a week and enjoy camping, hiking, surfing, snorkeling, and just about anything outdoors.
-
-Foodie: Cooking a great meal is one of my favorite ways to unwind and get creative, especially with friends and family.
-
-Location: I currently live in Las Vegas, NV, but I’m open to relocating for the right opportunity.
-
-
-On top of all this, I'm eagerly working toward landing my first job as a data analyst, applying my analytical mindset and skills to help businesses make data-driven decisions.
+-Automotive Enthusiast: I have many years of experience in helping people by consulting on and performing modifications for race cars and off-road vehicles, improving their performance for competitive events or personal enjoyment.
+-Retired Athlete: Growing up, I played hockey at a highly competitive level. In an effort to give back to the community and help future generations of hockey players, I’ve volunteered as a coach to develop young players’ athletic and social skills both on and off the ice.
+-Pet Lover: I'm the proud owner of two adorable cats, Holley and Sammy.
+-Fitness & Outdoors: I love staying active! I weight train 3-5 times a week and enjoy camping, hiking, surfing, snorkeling, and just about anything outdoors.
+-Foodie: Cooking a great meal is one of my favorite ways to unwind and get creative, especially with friends and family.
+-Location: I currently live in Las Vegas, NV, but I’m open to relocating for the right opportunity.
 
 Skills Acquired in TripleTen Business Analytics Certification include the following:
 
-Data Analysis: Extensive experience in data cleaning, transformation, and visualization.
+-Data Analysis: Extensive experience in data cleaning, transformation, and visualization.
+-SQL: Writing queries to retrieve, manipulate, and analyze data from relational databases.
+-Excel: Advanced usage, including PivotTables, advanced formulas, and data visualization.
+-Data Visualization: Creating insightful dashboards and visualizations using Tableau and Power BI.
+-Business Metrics & KPIs: Understanding and applying key business metrics to monitor performance.
+-Statistical Analysis: Conducting hypothesis testing and regression analysis to derive business insights.
 
-SQL: Writing queries to retrieve, manipulate, and analyze data from relational databases.
-
-Excel: Advanced usage, including PivotTables, advanced formulas, and data visualization.
-
-Data Visualization: Creating insightful dashboards and visualizations using Tableau and Power BI.
-
-Business Metrics & KPIs: Understanding and applying key business metrics to monitor performance.
-
-Statistical Analysis: Conducting hypothesis testing and regression analysis to derive business insights.
-
+On top of all this, I'm eagerly working toward landing my first job as a data analyst, applying my analytical mindset and skills to help businesses make data-driven decisions.
 
 What I've Worked On:
 
