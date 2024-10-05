@@ -1,4 +1,5 @@
-## Hi there!👋  Contact me on Linkdin: www.linkedin.com/in/lukas-golubeckis
+## Hi there!👋  
+Contact me on Linkdin: www.linkedin.com/in/lukas-golubeckis
 
 My name is Lukas. I am a dedicated, analytical professional with a solid educational foundation in data visualization, analytics, and business intelligence, complemented by extensive experience in sales, management, and customer relations. I am currently in the final stages of completing the TripleTen Business Analytics Certification, a comprehensive program that has refined my skills and deepened my expertise in the field of BI Analytics. My diverse background, combining a passion for data, performance optimization, and leadership, has equipped me with a unique skill set. With years of hard work, unwavering commitment to excellence, and a positive, uplifting personality, I am confident that I would be a valuable addition to any team.😁
 
