@@ -4,6 +4,7 @@ I'm Lukas, a dedicated and analytical professional with a strong educational fou
 
 
 About me:
+
 -Automotive Enthusiast: I have many years of experience in helping people by consulting on and performing modifications for race cars and off-road vehicles, improving their performance for competitive events or personal enjoyment.
 
 -Retired Athlete: Growing up, I played hockey at a highly competitive level. In an effort to give back to the community and help future generations of hockey players, I’ve volunteered as a coach to develop young players’ athletic and social skills both on and off the ice.
