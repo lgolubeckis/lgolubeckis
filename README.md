@@ -31,7 +31,7 @@ Skills Acquired in TripleTen Business Analytics Certification include the follow
 
 -Statistical Analysis: Conducting hypothesis testing and regression analysis to derive business insights.
 
-On top of all this, I'm eagerly working toward landing my first job as a data analyst, applying my analytical mindset and skills to help businesses make data-driven decisions.
+On top of all this, I'm eagerly working toward landing my first job as a data analyst where I will be able to apply my analytical mindset and skills to help businesses make data-driven decisions.
 
 What I've Worked On:
 
