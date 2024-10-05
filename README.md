@@ -1,14 +1,19 @@
 ## Hi there!👋  Contact me on Linkdin: www.linkedin.com/in/lukas-golubeckis
 
-I'm Lukas, a dedicated and analytical professional with a strong educational foundation in data visualization, analytics, and business intelligence, complemented by extensive experience in sales, management, and customer relations. Currently, I'm in the final stages of completing the TripleTen Business Analytics Certification, a rigorous program that has honed my skills and deepened my expertise in the field.
+I'm Lukas, a dedicated and analytical professional with a strong educational foundation in data visualization, analytics, and business intelligence, complemented by extensive experience in sales, management, and customer relations. Currently, I'm in the final stages of completing the TripleTen Business Analytics Certification, a rigorous program that has honed my skills and deepened my expertise in the field. I have a diverse background, blending my passions for data, performance optimization, and leadership. The skills and experience I've earned through years of hard work and dedication to excellence in addition to my positive and uplifting personality make me a great addition to any team😁
 
-About Me: I have a diverse background, blending my passions for data, performance optimization, and leadership.
 
+About me:
 -Automotive Enthusiast: I have many years of experience in helping people by consulting on and performing modifications for race cars and off-road vehicles, improving their performance for competitive events or personal enjoyment.
+
 -Retired Athlete: Growing up, I played hockey at a highly competitive level. In an effort to give back to the community and help future generations of hockey players, I’ve volunteered as a coach to develop young players’ athletic and social skills both on and off the ice.
+
 -Pet Lover: I'm the proud owner of two adorable cats, Holley and Sammy.
+
 -Fitness & Outdoors: I love staying active! I weight train 3-5 times a week and enjoy camping, hiking, surfing, snorkeling, and just about anything outdoors.
+
 -Foodie: Cooking a great meal is one of my favorite ways to unwind and get creative, especially with friends and family.
+
 -Location: I currently live in Las Vegas, NV, but I’m open to relocating for the right opportunity.
 
 Skills Acquired in TripleTen Business Analytics Certification include the following:
