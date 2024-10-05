@@ -18,6 +18,8 @@ About me:
 -Location: I currently live in Las Vegas, NV, but I’m open to relocating for the right opportunity.
 
 
+
+
 Skills Acquired in TripleTen Business Analytics Certification include the following:
 
 -Data Analysis: Extensive experience in data cleaning, transformation, and visualization.
