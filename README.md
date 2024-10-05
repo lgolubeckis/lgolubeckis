@@ -1,7 +1,7 @@
 ## Hi there!👋  Contact me on Linkdin: www.linkedin.com/in/lukas-golubeckis
 
 I'm Lukas, a dedicated and analytical professional with a strong educational foundation in data visualization, analytics, and business intelligence, 
-complemented by extensive experience in sales, management, and customer service. Currently, I'm in the final stages of completing the TripleTen 
+complemented by extensive experience in sales, management, and customer relations. Currently, I'm in the final stages of completing the TripleTen 
 Business Analytics Certification, a rigorous program that has honed my skills and deepened my expertise in the field.
 
 About Me: 
