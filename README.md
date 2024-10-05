@@ -13,8 +13,7 @@ About me:
 
 -Fitness & Outdoors: I love staying active! I weight train 3-5 times a week and enjoy camping, hiking, surfing, snorkeling, and just about anything outdoors.
 
--Foodie: Cooking a great meal is one of my favorite ways to unwind and get creative, especially with friends and family.
-
+-Foodie: Cooking a great meal is one of my favorite ways to unwind and get creative, especially with friends and family.   
 -Location: I currently live in Las Vegas, NV, but I’m open to relocating for the right opportunity.
 
 
